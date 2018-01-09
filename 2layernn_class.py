@@ -10,3 +10,4 @@ class TwoLayerNet:
   self.params['W1'] = weight_init_std * \
                       np.random.randn(input_size, hidden_size)
            
+a
